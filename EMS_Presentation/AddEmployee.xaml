@@ -19,7 +19,7 @@
             <ComboBoxItem>Bangalore</ComboBoxItem>
             <ComboBoxItem>Chennai</ComboBoxItem>
             <ComboBoxItem>Mumbai</ComboBoxItem>
-            <ComboBoxItem>Pune</ComboBoxItem>
+            
         </ComboBox>
         <Label x:Name="lbl_PhoneNumber" Content="Phone Number" HorizontalAlignment="Left" Margin="100,250,0,0" VerticalAlignment="Top" Width="112"/>
         <TextBox x:Name="txt_PhoneNumber" HorizontalAlignment="Left" Height="29" Margin="300,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
